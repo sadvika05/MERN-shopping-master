@@ -1,6 +1,4 @@
-# ProShop eCommerce Platform
-
-> eCommerce platform built with the MERN stack & Redux.
+> eCommerce platform built with the MERN stack.
 
 This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
